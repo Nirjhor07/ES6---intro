@@ -5,9 +5,10 @@ let sum = 0;
 for (number of numbers) {
   sum = sum + number;
 }
+
 console.log(sum);
 
-//syntax of reduce 
+// syntax of reduce 
 // array.reduce((accumulator, currentValue) => { return result }, initialValue);
 
 // eitare reduce maira easily koira fela jayyy
